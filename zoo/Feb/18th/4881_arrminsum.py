@@ -28,3 +28,5 @@ for tc in range(1, t+1):
     dfs(0, 0)
     
     print(f"#{tc} {min_val}")
+
+

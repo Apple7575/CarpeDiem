@@ -1,5 +1,6 @@
 The Quiet Spread of the Developer Survival Guide from Stanford to Big Tech | Mihail Eric
 Key Takeaways
+
 1. The Rise of the AI-Native Engineer & The Crisis for Juniors
 Junior developers are facing a "perfect storm" in employment due to post-pandemic hiring freezes, a surge in CS majors, and massive corporate AI adoption. The new standard for the incoming generation will be the "AI-Native Engineer"—someone who combines solid traditional programming fundamentals with the ability to orchestrate AI tools effectively.
 
@@ -17,3 +18,5 @@ Senior developers often resist AI tools because they are deeply ingrained in the
 
 6. The Future of AI-Native Organizations
 As organizations evolve, the primary focus will shift to the "allocation of intelligence." True AI-native organizations aim to take the human out of the loop by embedding AI directly into the product, allowing the AI to autonomously do the work and interact directly with customers.
+
+
